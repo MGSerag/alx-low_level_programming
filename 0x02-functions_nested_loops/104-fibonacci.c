@@ -17,6 +17,7 @@ int main(void)
 	for (count = 2; count < 92; count++)
 	{
 		unsigned long next_fib = fib1 + fib2;
+
 		printf(", %lu", next_fib);
 		fib1 = fib2;
 		fib2 = next_fib;
@@ -36,16 +37,12 @@ int main(void)
 			half1 += 1;
 			half2 %= 10000000000;
 		}
-
 		printf(", %lu%010lu", half1, half2);
-
 		fib1_half1 = fib2_half1;
 		fib1_half2 = fib2_half2;
 		fib2_half1 = half1;
 		fib2_half2 = half2;
 	}
-
 	printf("\n");
-
 	return (0);
 }
