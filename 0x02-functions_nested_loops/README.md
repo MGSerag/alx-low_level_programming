@@ -1,6 +1,6 @@
 # _putchar Project
 
-This project contains a simple C program that prints `_putchar`, followed by a new line.
+This project contains simple C programs that use the `_putchar` function.
 
 ## Compilation
 
@@ -15,3 +15,4 @@ All code follows the Betty style guidelines and has been checked using `betty-st
 - `main.h`: Header file containing function prototypes.
 - `0-putchar.c`: Source file containing the `main` function.
 - `1-alphabet.c`: Source file containing the `print_alphabet` function.
+- `2-print_alphabet_x10.c`: Source file containing the `print_alphabet_x10` function.
