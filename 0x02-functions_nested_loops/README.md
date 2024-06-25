@@ -20,3 +20,4 @@ All code follows the Betty style guidelines and has been checked using `betty-st
 - `4-isalpha.c`: Source file containing the `_isalpha` function.
 - `5-sign.c`: Source file containing the `print_sign` function.
 - `6-abs.c`: Source file containing the `_abs` function.
+- `7-print_last_digit.c`: Source file containing the `print_last_digit` function.
