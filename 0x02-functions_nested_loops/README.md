@@ -18,3 +18,4 @@ All code follows the Betty style guidelines and has been checked using `betty-st
 - `2-print_alphabet_x10.c`: Source file containing the `print_alphabet_x10` function.
 - `3-islower.c`: Source file containing the `_islower` function.
 - `4-isalpha.c`: Source file containing the `_isalpha` function.
+- `5-sign.c`: Source file containing the `print_sign` function.
