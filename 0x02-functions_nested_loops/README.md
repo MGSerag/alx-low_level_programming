@@ -22,3 +22,4 @@ All code follows the Betty style guidelines and has been checked using `betty-st
 - `6-abs.c`: Source file containing the `_abs` function.
 - `7-print_last_digit.c`: Source file containing the `print_last_digit` function.
 - `8-24_hours.c`: Source file containing the `jack_bauer` function.
+- `9-times_table.c`: Source file containing the `times_table` function.
