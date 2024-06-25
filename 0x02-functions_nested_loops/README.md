@@ -14,3 +14,4 @@ All code follows the Betty style guidelines and has been checked using `betty-st
 
 - `main.h`: Header file containing function prototypes.
 - `0-putchar.c`: Source file containing the `main` function.
+- `1-alphabet.c`: Source file containing the `print_alphabet` function.
