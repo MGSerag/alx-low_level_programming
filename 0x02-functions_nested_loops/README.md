@@ -16,3 +16,4 @@ All code follows the Betty style guidelines and has been checked using `betty-st
 - `0-putchar.c`: Source file containing the `main` function.
 - `1-alphabet.c`: Source file containing the `print_alphabet` function.
 - `2-print_alphabet_x10.c`: Source file containing the `print_alphabet_x10` function.
+- `3-islower.c`: Source file containing the `_islower` function.
