@@ -8,3 +8,4 @@
 * 6-print_line.c: function that draws a straight line in the terminal
 * 8-print_square.c: function that prints a square, followed by a new line
 * 9-fizz_buzz.c: program that prints the numbers from 1 to 100 with Fizz, Buzz, and FizzBuzz for multiples of 3, 5, and both respectively
+* 9-fizz_buzz.c: program that prints the numbers from 1 to 100 with Fizz, Buzz, and FizzBuzz for multiples of 3, 5, and both respectively

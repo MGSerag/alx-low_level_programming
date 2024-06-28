@@ -6,7 +6,7 @@
  * and for the multiples of five prints Buzz
  * For numbers which are multiples of both three and five prints FizzBuzz
  * Each number or word is separated by a space
- * 
+ *
  * Return: 0 on success
  */
 int main(void)
