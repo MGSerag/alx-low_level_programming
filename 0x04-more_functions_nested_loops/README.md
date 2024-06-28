@@ -10,3 +10,4 @@
 * 9-fizz_buzz.c: program that prints the numbers from 1 to 100 with Fizz, Buzz, and FizzBuzz for multiples of 3, 5, and both respectively
 * 9-fizz_buzz.c: program that prints the numbers from 1 to 100 with Fizz, Buzz, and FizzBuzz for multiples of 3, 5, and both respectively
 * 10-print_triangle.c: function that prints a triangle, followed by a new line
+* 100-prime_factor.c: program that finds and prints the largest prime factor of 612852475143
